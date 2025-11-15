@@ -1,4 +1,4 @@
-<h1 align="center">✨ Olá! Eu sou a Patricia</h1>
+<h1 align="center"> Olá! Eu sou a Patricia</h1>
 
 <p align="center">
 Dev Fullstack Júnior • JavaScript • Node.js • SQL  
