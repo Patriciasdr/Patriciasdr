@@ -1,44 +1,78 @@
 <h1 align="center">✨ Olá! Eu sou a Patricia</h1>
 
 <p align="center">
-Dev Fullstack Júnior | JavaScript | Bootcamp Generation Brasil
+Dev Fullstack Júnior • JavaScript • Node.js • SQL  
 </p>
 
 ---
 
-## Sobre mim
-
-- Dev Fullstack Jr, em constante evolução  
-- Participante do Bootcamp da Generation Brasil  
-- Focada em desenvolvimento web com **JavaScript**, **TypeScript**, **Node.js** e **SQL**  
-- Estudante de ADS (Unisinos)  
-- Em busca da minha primeira oportunidade na área  
-- Apaixonada por games, tecnologia e desafios  
-- Sempre aprendendo algo novo
-
----
-
-## Tecnologias e Ferramentas
-
-### Front-end
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-
-### Back-end
-![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-
-### Banco de Dados
-![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-
-### Ferramentas
-![Git](https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
+## 🧠 Status & Stacks Principais
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ATIVO-32CD32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
 
 ---
 
-## Estatísticas do GitHub
+## ✨ Sobre mim
+
+<p align="center">
+Desenvolvedora em formação, apaixonada por tecnologia e buscando minha primeira oportunidade na área.  
+Atualmente estudando Análise e Desenvolvimento de Sistemas (Unisinos).  
+Focada em desenvolvimento web com JavaScript, TypeScript, Node.js e bancos de dados.
+</p>
+
+---
+
+## 🌐 Conecte-se comigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/patricia-souza-da-rosa-5ab0a1384/">
+    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  </a>
+</p>
+
+---
+
+# 🧩 Tecnologias que domino
+
+<div align="center">
+
+## 📘 Linguagens & Bancos  
+| JavaScript | TypeScript | Oracle SQL | MySQL |
+|-----------|------------|------------|--------|
+| <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> | <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> | <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/> | <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> |
+
+---
+
+## ⚙️ Back-End  
+| Node.js |
+|---------|
+| <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> |
+
+---
+
+## 📊 Análise de Dados  
+| Power BI |
+|----------|
+| <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg"/> |
+
+---
+
+## 🧰 Ferramentas  
+| Git | GitHub | VSCode |
+|----|--------|--------|
+| <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> | <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> | <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> |
+
+</div>
+
+---
+
+## 📊 Estatísticas
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patriciasdr&layout=compact&theme=radical" />
@@ -46,11 +80,4 @@ Dev Fullstack Júnior | JavaScript | Bootcamp Generation Brasil
 
 ---
 
-## Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricia-souza-da-rosa-5ab0a1384/)
-
-
----
-
-⭐ *Obrigada por visitar meu perfil! Pode explorar meus projetos à vontade.*  
+⭐ *Obrigada por visitar meu perfil! Sinta-se à vontade para ver meus projetos.*  
