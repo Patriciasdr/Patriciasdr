@@ -48,7 +48,7 @@ Dev Fullstack Júnior | JavaScript | Bootcamp Generation Brasil
 
 ## Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricia-souza-da-rosa-5ab0a1384/)
 
 
 ---
