@@ -59,7 +59,7 @@ Focada em desenvolvimento web com JavaScript, TypeScript, Node.js e bancos de da
 ## 📊 Análise de Dados  
 | Power BI |
 |----------|
-| <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg"/> |
+| <img height="50" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" /> |
 
 ---
 
