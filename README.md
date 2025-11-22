@@ -1,4 +1,4 @@
-<h1 align="center"> Olá! Eu sou a Patricia</h1>
+<h1 align="center">✨ Olá! Eu sou a Patricia</h1>
 
 <p align="center">
 Dev Fullstack Júnior • JavaScript • Node.js • SQL  
@@ -17,6 +17,11 @@ Dev Fullstack Júnior • JavaScript • Node.js • SQL
 </p>
 
 ---
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## ✨ Sobre mim
 
@@ -81,3 +86,4 @@ Focada em desenvolvimento web com JavaScript, TypeScript, Node.js e bancos de da
 ---
 
 ⭐ *Obrigada por visitar meu perfil! Sinta-se à vontade para ver meus projetos.*  
+
