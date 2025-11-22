@@ -4,6 +4,12 @@
 Dev Fullstack Júnior • JavaScript • Node.js • SQL  
 </p>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
+
 ---
 
 ## 🧠 Status & Stacks Principais
@@ -17,18 +23,13 @@ Dev Fullstack Júnior • JavaScript • Node.js • SQL
 </p>
 
 ---
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 ## ✨ Sobre mim
 
 <p align="center">
 Desenvolvedora em formação, apaixonada por tecnologia e buscando minha primeira oportunidade na área.  
 Atualmente estudando Análise e Desenvolvimento de Sistemas (Unisinos).  
-Focada em desenvolvimento web com JavaScript, TypeScript, Node.js e bancos de dados.
 </p>
 
 ---
