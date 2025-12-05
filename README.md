@@ -1,7 +1,7 @@
-<h1 align="center"> Olá! Eu sou a Patricia</h1>
+<h1 align="center">Olá! Eu sou a Patricia</h1>
 
 <p align="center">
-Dev Fullstack Júnior • JavaScript • Node.js • SQL  
+Dev Fullstack Júnior • JavaScript • Node.js • NestJS • SQL  
 </p>
 
 <picture align="center">
@@ -18,12 +18,12 @@ Dev Fullstack Júnior • JavaScript • Node.js • SQL
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NESTJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 ---
-
 
 ## ✨ Sobre mim
 
@@ -55,10 +55,10 @@ Atualmente estudando Análise e Desenvolvimento de Sistemas (Unisinos).
 
 ---
 
-## ⚙️ Back-End  
-| Node.js |
-|---------|
-| <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> |
+## ⚙️ Back-End & Frameworks  
+| Node.js | NestJS |
+|---------|--------|
+| <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> | <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"/> |
 
 ---
 
@@ -81,10 +81,10 @@ Atualmente estudando Análise e Desenvolvimento de Sistemas (Unisinos).
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patriciasdr&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patriciasdr&layout=compact&theme=radical&hide=html,css" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patriciasdr&show_icons=true&theme=radical&count_private=true" />
 </p>
 
 ---
 
 ⭐ *Obrigada por visitar meu perfil! Sinta-se à vontade para ver meus projetos.*  
-
