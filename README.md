@@ -12,7 +12,7 @@ Dev Fullstack Júnior • JavaScript • Node.js • NestJS • SQL
 
 ---
 
-## 🧠 Status & Stacks Principais
+## Status & Stacks Principais
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ATIVO-32CD32?style=for-the-badge" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -25,7 +25,7 @@ Dev Fullstack Júnior • JavaScript • Node.js • NestJS • SQL
 
 ---
 
-## ✨ Sobre mim
+##  Sobre mim
 
 <p align="center">
 Desenvolvedora em formação, apaixonada por tecnologia e buscando minha primeira oportunidade na área.  
@@ -58,7 +58,7 @@ Atualmente estudando Análise e Desenvolvimento de Sistemas (Unisinos).
 ## ⚙️ Back-End & Frameworks  
 | Node.js | NestJS |
 |---------|--------|
-| <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> | <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"/> |
+| <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> | <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg"/> |
 
 ---
 
@@ -78,13 +78,6 @@ Atualmente estudando Análise e Desenvolvimento de Sistemas (Unisinos).
 
 ---
 
-## 📊 Estatísticas
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patriciasdr&layout=compact&theme=radical&hide=html,css" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patriciasdr&show_icons=true&theme=radical&count_private=true" />
-</p>
-
----
 
 ⭐ *Obrigada por visitar meu perfil! Sinta-se à vontade para ver meus projetos.*  
